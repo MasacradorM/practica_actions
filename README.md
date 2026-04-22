@@ -18,7 +18,7 @@ __________________________________________
 __________________________________________
 📊 5. Presentación
 
-https://gamma.app/docs/Automatizacion-de-Despliegues-con-GitHub-Actions-y-Rendercom-itbnb3ijmxxgs4w?mode=present#card-wf8ha7mbiomv7i9
+https://gamma.app/docs/Automatizacion-de-Despliegues-con-GitHub-Actions-y-Rendercom-itbnb3ijmxxgs4w?mode=present#card-7r3mjabh5ugk83r
 
 __________________________________________
 🗄️ 6. Gobernanza de Base de Datos
