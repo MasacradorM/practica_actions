@@ -23,7 +23,7 @@ https://gamma.app/docs/Automatizacion-de-Despliegues-con-GitHub-Actions-y-Render
 __________________________________________
 🗄️ 6. Gobernanza de Base de Datos
 
-https://github.com/MasacradorM/GobernanzaDB.git
+https://github.com/MasacradorM/GestionUsuarios
 
 __________________________________________
 📝 7. Diagrama
