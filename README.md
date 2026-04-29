@@ -2,6 +2,8 @@
 
 🎥 1. Video Tutorial (Alta calidad + Guion)
 
+https://studio.youtube.com/channel/UCuYYqS0MURy5SaV56eOmMVQ/videos/upload?filter=%5B%5D&sort=%7B"columnType"%3A"date"%2C"sortOrder"%3A"DESCENDING"%7D
+
 ___________________________________________
 📝 2. Informe
 
@@ -10,10 +12,13 @@ https://discordapp.com/channels/1439651906862714932/1439651907730669671/14964770
 __________________________________________
 ⚙️ 3. Deploy con GitHub Actions
 
-https://github.com/MasacradorM/apis_deploy
+api -- https://github.com/MasacradorM/products_api
+front -- https://github.com/MasacradorM/products-front
 
 __________________________________________
 🎬 4. Video del Deploy
+
+https://studio.youtube.com/channel/UCuYYqS0MURy5SaV56eOmMVQ/videos/upload?filter=%5B%5D&sort=%7B"columnType"%3A"date"%2C"sortOrder"%3A"DESCENDING"%7D
 
 __________________________________________
 📊 5. Presentación
