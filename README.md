@@ -30,7 +30,3 @@ __________________________________________
 
 https://github.com/MasacradorM/GestionUsuarios
 
-__________________________________________
-📝 7. Diagrama
-
-https://drive.google.com/file/d/16V_2o8yyKNcf8sDyBpVPLH1oQiI1o1tZ/view?usp=drivesdk
